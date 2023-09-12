@@ -5,16 +5,16 @@
 |<img src="https://wiki.killingfloor2.com/images/7/7a/KF2_Icon.png" width="24" height="24" align="top">|**Killing Floor 2**||
 |-|:-|-|
 |<img src="CD.png" width="24" height="24" align="top">|[Controlled Difficulty - Combined Edition](https://github.com/Asapi1020/CD-Combined-Edition)|The custom mode CD's Japanese version|
-|<img src="https://simpleicons.org/icons/unrealengine.svg" width="24" height="24" align="top">|[Zed Cosmetic Mod](https://github.com/Asapi1020/ZedCosmeticMut)||
-|<img src="https://simpleicons.org/icons/unrealengine.svg" width="24" height="24" align="top">|[Damage Buffer](https://github.com/Asapi1020/DamagBuffer)||
-|<img src="https://simpleicons.org/icons/unrealengine.svg" width="24" height="24" align="top">|[Skin Fit Mod](https://github.com/Asapi1020/SkinFitMod)||
-|<img src="https://simpleicons.org/icons/unrealengine.svg" width="24" height="24" align="top">|[Mosinna](https://github.com/Asapi1020/Mosinna)||
-|<img src="https://simpleicons.org/icons/unrealengine.svg" width="24" height="24" align="top">|[Extended Endless](https://github.com/Asapi1020/Extended-Endless)||
-|<img src="https://simpleicons.org/icons/unrealengine.svg" width="24" height="24" align="top">|[Stats Displayer](https://github.com/Asapi1020/StatsDisplayer)||
+|<img src="https://simpleicons.org/icons/unrealengine.svg" width="24" height="24" align="top">|[Zed Cosmetic Mod](https://github.com/Asapi1020/ZedCosmeticMut)|A mutator to force zeds to wear hats|
+|<img src="https://simpleicons.org/icons/unrealengine.svg" width="24" height="24" align="top">|[Damage Buffer](https://github.com/Asapi1020/DamagBuffer)|A mutator to test medic buff|
+|<img src="https://simpleicons.org/icons/unrealengine.svg" width="24" height="24" align="top">|[Skin Fit Mod](https://github.com/Asapi1020/SkinFitMod)|A game mode to try weapon skins via a freaking chat conversation system|
+|<img src="https://simpleicons.org/icons/unrealengine.svg" width="24" height="24" align="top">|[Mosinna](https://github.com/Asapi1020/Mosinna)|A game mode to enjoy Mosin Nagant|
+|<img src="https://simpleicons.org/icons/unrealengine.svg" width="24" height="24" align="top">|[Extended Endless](https://github.com/Asapi1020/Extended-Endless)|A custom endless mode with various additional contents|
+|<img src="https://simpleicons.org/icons/unrealengine.svg" width="24" height="24" align="top">|[Stats Displayer](https://github.com/Asapi1020/StatsDisplayer)|A mutator for offline to show player stats|
 |<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" width="24" height="24" align="top">|**Python Scripts**||
-|<img src="https://simpleicons.org/icons/git.svg" width="24" height="24" align="top">|[Git KF Integrator](https://github.com/Asapi1020/Git-KF-Integrator)||
-|<img src="https://simpleicons.org/icons/discord.svg" width="24" height="24" align="top">|[Discord Bot CD Recorder](https://github.com/Asapi1020/Discord-Bot-CDRecorder)||
-|<img src="https://simpleicons.org/icons/python.svg" width="24" height="24" align="top">|[Weather News](https://github.com/Asapi1020/WeatherNews)||
+|<img src="https://simpleicons.org/icons/git.svg" width="24" height="24" align="top">|[Git KF Integrator](https://github.com/Asapi1020/Git-KF-Integrator)|Integrate Git management and KF mod compiling|
+|<img src="https://simpleicons.org/icons/discord.svg" width="24" height="24" align="top">|[Discord Bot CD Recorder](https://github.com/Asapi1020/Discord-Bot-CDRecorder)|A discord bot with web scraping for CD records|
+|<img src="https://simpleicons.org/icons/python.svg" width="24" height="24" align="top">|[Weather News](https://github.com/Asapi1020/WeatherNews)|PySimpleGUI and Web Scraping tutorial|
 
 # 🔗 Links
 [![Steam](https://img.shields.io/static/v1?message=Steam&logo=steam&labelColor=5c5c5c&color=003E9E&logoColor=white&label=%20)](https://steamcommunity.com/profiles/76561198930643117/)
