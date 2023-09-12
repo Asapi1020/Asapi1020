@@ -11,3 +11,7 @@
 |<img src="https://simpleicons.org/icons/unrealengine.svg" width="24" height="24" align="top">|[Mosinna](https://github.com/Asapi1020/Mosinna)||
 |<img src="https://simpleicons.org/icons/unrealengine.svg" width="24" height="24" align="top">|[Extended Endless](https://github.com/Asapi1020/Extended-Endless)||
 |<img src="https://simpleicons.org/icons/unrealengine.svg" width="24" height="24" align="top">|[Stats Displayer](https://github.com/Asapi1020/StatsDisplayer)||
+|<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" width="24" height="24" align="top">|**Python Scripts**||
+|<img src="https://simpleicons.org/icons/git.svg" width="24" height="24" align="top">|[Git KF Integrator](https://github.com/Asapi1020/Git-KF-Integrator)||
+|<img src="https://simpleicons.org/icons/discord.svg" width="24" height="24" align="top">|[Discord Bot CD Recorder](https://github.com/Asapi1020/Discord-Bot-CDRecorder)||
+|<img src="https://simpleicons.org/icons/python.svg" width="24" height="24" align="top">|[Weather News](https://github.com/Asapi1020/WeatherNews)||
