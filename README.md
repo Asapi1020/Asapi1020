@@ -4,7 +4,7 @@
 # 📂 Projects
 |<img src="https://wiki.killingfloor2.com/images/7/7a/KF2_Icon.png" width="24" height="24" align="top">|**Killing Floor 2**||
 |-|:-|-|
-|<img src="CD.png" width="24" height="24" align="top">|[Controlled Difficulty - Combined Edition](https://github.com/Asapi1020/CD-Combined-Edition)||
+|<img src="CD.png" width="24" height="24" align="top">|[Controlled Difficulty - Combined Edition](https://github.com/Asapi1020/CD-Combined-Edition)|The custom mode CD's Japanese version|
 |<img src="https://simpleicons.org/icons/unrealengine.svg" width="24" height="24" align="top">|[Zed Cosmetic Mod](https://github.com/Asapi1020/ZedCosmeticMut)||
 |<img src="https://simpleicons.org/icons/unrealengine.svg" width="24" height="24" align="top">|[Damage Buffer](https://github.com/Asapi1020/DamagBuffer)||
 |<img src="https://simpleicons.org/icons/unrealengine.svg" width="24" height="24" align="top">|[Skin Fit Mod](https://github.com/Asapi1020/SkinFitMod)||
@@ -17,5 +17,8 @@
 |<img src="https://simpleicons.org/icons/python.svg" width="24" height="24" align="top">|[Weather News](https://github.com/Asapi1020/WeatherNews)||
 
 # 🔗 Links
-[![Steam](https://img.shields.io/static/v1?message=Steam&logo=steam&labelColor=5c5c5c&color=1182c3&logoColor=white&label=%20)](https://steamcommunity.com/profiles/76561198930643117/)
+[![Steam](https://img.shields.io/static/v1?message=Steam&logo=steam&labelColor=5c5c5c&color=003E9E&logoColor=white&label=%20)](https://steamcommunity.com/profiles/76561198930643117/)
 [![YouTube](https://img.shields.io/static/v1?message=YouTube&logo=youtube&labelColor=gray&color=red&logoColor=white&label=%20)](https://www.youtube.com/@asapi1020)
+[![Twitch](https://img.shields.io/static/v1?message=Twitch&logo=twitch&labelColor=gray&color=purple&logoColor=white&label=%20)](https://www.twitch.tv/asapi1020)
+[![Twitter](https://img.shields.io/static/v1?message=Twitter&logo=twitter&labelColor=gray&color=blue&logoColor=white&label=%20)](https://twitter.com/1020_asapi)
+[![Discord](https://img.shields.io/static/v1?message=Discord&logo=discord&labelColor=gray&color=4089DE&logoColor=white&label=%20)](https://discord.gg/wCRd58ZwHD)
