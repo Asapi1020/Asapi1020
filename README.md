@@ -7,6 +7,7 @@
 |<img src="https://wiki.killingfloor2.com/images/7/7a/KF2_Icon.png" width="24" height="24" align="top">|**Killing Floor 2**||
 |-|:-|-|
 |<img src="CD.png" width="24" height="24" align="top">|[Controlled Difficulty - Combined Edition](https://github.com/Asapi1020/CD-Combined-Edition)|The custom mode CD's Japanese version|
+|<img src="https://simpleicons.org/icons/unrealengine.svg" width="24" height="24" align="top">|[Escape Helper](https://github.com/Asapi1020/Escape-Helper)|A mutator to help enjoy the custom map "Escape Nightmares"|
 |<img src="https://simpleicons.org/icons/unrealengine.svg" width="24" height="24" align="top">|[Custom Weeklies](https://github.com/Asapi1020/Custom-Weeklies)|Custom weekly modes|
 |<img src="https://simpleicons.org/icons/unrealengine.svg" width="24" height="24" align="top">|[Zed Cosmetic Mod](https://github.com/Asapi1020/ZedCosmeticMut)|A mutator to force zeds to wear hats|
 |<img src="https://simpleicons.org/icons/unrealengine.svg" width="24" height="24" align="top">|[Damage Buffer](https://github.com/Asapi1020/DamagBuffer)|A mutator to test medic buff|
