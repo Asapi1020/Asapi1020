@@ -19,6 +19,8 @@
 |<img src="https://simpleicons.org/icons/git.svg" width="24" height="24" align="top">|[Git KF Integrator](https://github.com/Asapi1020/Git-KF-Integrator)|Integrate Git management and KF mod compiling|
 |<img src="https://simpleicons.org/icons/discord.svg" width="24" height="24" align="top">|[Discord Bot CD Recorder](https://github.com/Asapi1020/Discord-Bot-CDRecorder)|A discord bot with web scraping for CD records|
 |<img src="https://simpleicons.org/icons/python.svg" width="24" height="24" align="top">|[Weather News](https://github.com/Asapi1020/WeatherNews)|PySimpleGUI and Web Scraping tutorial|
+|<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Google_Apps_Script.svg/1200px-Google_Apps_Script.svg.png" width="24" height="24" align="top">|**Google App Script**||
+|<img src="https://simpleicons.org/icons/googleappsscript.svg" width="24" height="24" align="top">|KF2 some simulator|Simulate some KF2 system with Google Spreadsheets|
 
 # 🔗 Links
 [![Steam](https://img.shields.io/static/v1?message=Steam&logo=steam&labelColor=5c5c5c&color=003E9E&logoColor=white&label=%20)](https://steamcommunity.com/profiles/76561198930643117/)
