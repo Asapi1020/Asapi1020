@@ -29,9 +29,10 @@
 |Year|Description|
 |-|:-|
 |2019|<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" width="24" height="24" align="top"> Learned **Python** in institute|
-|2020|<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" width="24" height="24" align="top"> Learned **C++** with Visual Studio in institute|
-|2021|Began to develop game mods with **Unreal Script** by myself|
-|2022|Learned web scraping and simple GUI with Python|
+|2020|<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" width="24" height="24" align="top"> Learned **C++** in institute|
+||<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_Logo.png/1200px-Matlab_Logo.png" height="24" align="top"> Learned **MATLAB** in institute|
+|2021|<img src="UE3.png" width="24" height="24" align="top"> Began to develop game mods with **Unreal Script** by myself|
+|2022|<img src="https://static-00.iconduck.com/assets.00/selenium-icon-512x496-obrnvg2v.png" height="24" align="top"> Learned web scraping and simple GUI with Python|
 |2023||
 |2024|<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Google_Apps_Script.svg/1200px-Google_Apps_Script.svg.png" width="24" height="24" align="top"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png" width="24" height="24" align="top"> Learned Google Apps Script and HTML|
 
