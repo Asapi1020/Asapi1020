@@ -33,7 +33,7 @@
 ||<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_Logo.png/1200px-Matlab_Logo.png" height="24" align="top"> Learned **MATLAB** in institute|
 |2021|<img src="UE3.png" width="24" height="24" align="top"> Began to develop game mods with **Unreal Script** by myself|
 |2022|<img src="https://static-00.iconduck.com/assets.00/selenium-icon-512x496-obrnvg2v.png" height="24" align="top"> Learned web scraping and simple GUI with Python|
-|2023||
+|2023|<img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="24" height="24" align="top"> Learned Git|
 |2024|<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Google_Apps_Script.svg/1200px-Google_Apps_Script.svg.png" width="24" height="24" align="top"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png" width="24" height="24" align="top"> Learned Google Apps Script and HTML|
 
 # 🔗 Links
