@@ -36,7 +36,7 @@
 |2022|<img src="https://static-00.iconduck.com/assets.00/selenium-icon-512x496-obrnvg2v.png" height="24" align="top"> Web scraping|★|Selenium, Beautiful Soup, Requests with Python|
 ||<img src="https://archive.org/download/github.com-PySimpleGUI-PySimpleGUI_-_2021-09-21_22-21-59/cover.jpg" height="24" align="top"> PySimpleGUI|★|The simplest GUI library for Python|
 |2023|<img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="24" height="24" align="top"> Git|★★★|Learned by myself|
-|2024|<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Google_Apps_Script.svg/1200px-Google_Apps_Script.svg.png" width="24" height="24" align="top"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png" width="24" height="24" align="top"> Google Apps Script and HTML/CSS|★★|Learned by myself|
+|2024|<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Google_Apps_Script.svg/1200px-Google_Apps_Script.svg.png" width="24" height="24" align="top"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png" width="24" height="24" align="top"> GAS and HTML/CSS|★★|Learned by myself|
 ||<img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/97_Docker_logo_logos-512.png" width="24" height="24" align="top"> Docker|★|Learned in company|
 ||<img src="nojs_icon.png" width="24" height="24" align="top"> Node.js|★|Learned in company|
 
