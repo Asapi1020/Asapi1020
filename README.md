@@ -38,7 +38,7 @@
 |2023|<img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="24" height="24" align="top"> Git|★★★|Learned by myself|
 |2024|<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Google_Apps_Script.svg/1200px-Google_Apps_Script.svg.png" width="24" height="24" align="top"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png" width="24" height="24" align="top"> Google Apps Script and HTML/CSS|★★|Learned by myself|
 ||<img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/97_Docker_logo_logos-512.png" width="24" height="24" align="top"> Docker|★|Learned in company|
-||<img src="https://w1.pngwing.com/pngs/885/534/png-transparent-green-grass-nodejs-javascript-react-mean-angularjs-logo-symbol-thumbnail.png" width="24" height="24" align="top"> Node.js|★|Learned in company|
+||<img src="nojs_icon.png" width="24" height="24" align="top"> Node.js|★|Learned in company|
 
 # 🔗 Links
 [![Steam](https://img.shields.io/static/v1?message=Steam&logo=steam&labelColor=5c5c5c&color=003E9E&logoColor=white&label=%20)](https://steamcommunity.com/profiles/76561198930643117/)
